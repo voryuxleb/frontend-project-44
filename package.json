@@ -1,6 +1,7 @@
 {
   "name": "@hexlet/code",
   "version": "1.0.0",
+  "type": "module",
   "description": "[![Actions Status](https://github.com/voryuxleb/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/voryuxleb/frontend-project-44/actions)",
   "main": "index.js",
   "scripts": {
@@ -18,9 +19,7 @@
   },
   "homepage": "https://github.com/voryuxleb/frontend-project-44#readme",
   "bin": {
-    "code": "bin/brain-games.js"
-  },
-  "keywords": [],
-  "type": "commonjs"
-  
+    "code": "bin/brain-games.js",
+    "brain-games": "bin/brain-games.js"
+  } 
 }
