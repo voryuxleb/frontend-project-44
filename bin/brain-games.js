@@ -1,3 +1,3 @@
 #!/usr/bin/env node
-const { greetUser } = require('../src/cli');
+import { greetUser } from '../src/cli.js';
 greetUser();
