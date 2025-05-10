@@ -12,3 +12,6 @@
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=voryuxleb_frontend-project-44&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=voryuxleb_frontend-project-44)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=voryuxleb_frontend-project-44&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=voryuxleb_frontend-project-44)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=voryuxleb_frontend-project-44&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=voryuxleb_frontend-project-44)
+
+### Демонстрация работы brain-even.js
+[Смотреть](https://asciinema.org/connect/645c1af0-5715-4a9b-83a2-694a8704393d)
