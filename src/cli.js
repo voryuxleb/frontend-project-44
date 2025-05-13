@@ -11,4 +11,5 @@ export const greetUser = () => {
     }
   } while (!userName.trim());
   console.log(`Hello, ${userName}!`);
+  return userName;
 };

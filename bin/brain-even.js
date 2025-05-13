@@ -1,3 +1,3 @@
 #!/usr/bin/env node
-import { playGame } from '../src/evenParity.js';
+import { playGame } from '../games/evenParity.js';
 playGame();
